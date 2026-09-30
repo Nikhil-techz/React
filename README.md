@@ -1,7 +1,8 @@
 # React
+
 React Project
 
-eatures:
+features:
 Free & Blazing Fast response
 No Rate limits
 200+ Currencies, Including Common Cryptocurrencies & Metals

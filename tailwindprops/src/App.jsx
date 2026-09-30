@@ -1,7 +1,5 @@
 import { useState } from "react";
-// import heroImg from "./assets/hero.png";
-// import reactLogo from "./assets/react.svg";
-// import viteLogo from "./assets/vite.svg";
+// import ProductCard from "./components/ProductCard";
 
 import "./App.css";
 
@@ -60,3 +58,17 @@ function App() {
 }
 
 export default App;
+
+// function Products() {
+//   return (
+//     <>
+//       <div>
+//         <ProductCard name="hp" price="70000" device="laptop" />
+
+//         <ProductCard name="dell" price="8000" device="dell ryzen" />
+//       </div>
+//     </>
+//   );
+// }
+
+// export default Products;
